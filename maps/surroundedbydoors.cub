@@ -1,0 +1,15 @@
+NO texture/pillar_red.xpm
+SO texture/pillar_blue.xpm
+WE texture/pillar_green.xpm
+EA texture/pillar_yellow.xpm
+
+F 220,100,0
+C 225,30,0
+
+1111111
+1000001
+1012101
+102N201
+1012101
+1000001
+1111111
